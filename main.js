@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/OCl3x5Z8y/
